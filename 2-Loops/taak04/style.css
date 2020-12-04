@@ -1,0 +1,112 @@
+body *{
+    color: #999999;
+    background-color: #000000;
+    border-color: #444444;
+}
+h1{
+    color: #dddddd;
+}
+h2{
+    color: #dddddd;
+}
+h3{
+    color: #dddddd;
+}
+h4{
+    color: #dddddd;
+}
+h5{
+    color: #dddddd;
+}
+h6{
+    color: #dddddd;
+}
+a.highlight{
+    color: #dddddd;
+}
+:hover{
+    color: #7e98d2;
+}
+input{
+    background-color: #060606;
+}
+#overlay{
+    background-color: #050505;
+}
+pre{
+    background-color: #050505;
+}
+table{
+    background-color: #281e1e;
+}
+textarea{
+    background-color: #000000;
+}
+a:visited{
+    color: #607069;
+}
+a{
+    color: #6a84bf;
+}
+*::before, *::after{
+    border-color: #444444;
+}
+#header-bar{
+    background-color: #000000;
+}
+button{
+    background-color: #000000;
+}
+
+
+
+
+body {
+    background-color: black;
+    color: black;
+  }
+
+div{
+    background-color: #000000;
+}
+
+
+body {
+    background-color: black;
+    color: black;
+  }
+.xp-footerbar {
+  background-color: black;
+}
+  .xp-horizontal-nav.xp-mobile-navbar .navbar-collapse {
+    background-color: black;
+  }
+
+.xp-horizontal-nav.xp-mobile-navbar.xp-fixed-navbar.mr-auto{
+    background-color: black;
+}
+.card-header.bg-info{
+    background-color: #313131;
+}
+
+
+
+/* bijna klaar */
+
+body {
+    background-color: black;
+    color: black;
+  }
+.xp-footerbar {
+  background-color: black;
+}
+  .xp-horizontal-nav.xp-mobile-navbar .navbar-collapse {
+    background-color: black;
+  }
+
+.xp-horizontal-nav.xp-mobile-navbar.xp-fixed-navbar.mr-auto{
+    background-color: black;
+}
+.card.border-info{
+    background-color: #white;
+}

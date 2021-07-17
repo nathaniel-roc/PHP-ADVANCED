@@ -7,13 +7,13 @@ $onof = array("on", "off");
         echo "<input type='radio' name='achtergrond' value='" . $achtergrond . "'>";
         echo  "<label for='" . $achtergrond . "'>" . $achtergrond . "</label>" . "<br>";
     }
-    sleep(0.1);
+    
     echo "<p>tekstkleur</p>";
     foreach($kleuren as $tekstkleur){
         echo "<input type='radio' name='tekstkleur' value='" . $tekstkleur . "'>";
         echo  "<label for='" . $tekstkleur . "'>" . $tekstkleur . "</label>" . "<br>";
     }
-    sleep(0.1);
+    
     echo "<p>center</p>";
     foreach($onof as $optie){
         echo "<input type='radio' name='onoff' value='" . $optie . "'>";
